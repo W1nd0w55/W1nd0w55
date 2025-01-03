@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @W1nd0w55
-- 👀 I’m interested in Databases
-- 🌱 I’m currently learning MySQL
+- 👀 I’m interested in Data science and web developmant.
+- 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me:
+-   Discord: w1nd0w55
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My username is a lie. I primarily use Debian
 
